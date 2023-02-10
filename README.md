@@ -1,2 +1,2 @@
 # games
-Mini games in JS, HTML (Canvas).
+Mini games in JS, CSS, HTML (Canvas).
